@@ -1,6 +1,6 @@
-# project2
+# Poetry Palette
 
-A new Flutter project.
+A new Flutter project in which you can select an image and write any text and customize the text by changing the font size, font style and also the color of the text etc.
 
 ## Getting Started
 
